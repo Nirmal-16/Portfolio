@@ -24,6 +24,7 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 - HTML5
 - CSS3
 - BOOTSTRAP5
+- JAVASCRIPT
 - GIT & GITHUB
 - GITHUB PAGES (for deployment)
 
