@@ -91,7 +91,7 @@ main{
     position: relative;
 }
 .content{
-    margin-left:50px;
+    /* margin-left:50px; */
     position: absolute;
     /* border: 2px solid yellowgreen; */
 }
